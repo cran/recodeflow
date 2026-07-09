@@ -63,7 +63,7 @@ Currently `recodeflow` is used in packages that harmonize health surveys and hea
 
 # Roadmap
 
-Projects on the roadmap are at the Github repository recodeflow under the [projects tab](https://github.com/Big-Life-Lab/recodeflow/projects).
+Projects on the roadmap are at the [recodeflow GitHub repository](https://github.com/Big-Life-Lab/recodeflow).
 
 # Contributing
 
